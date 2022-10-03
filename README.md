@@ -46,3 +46,12 @@ plt.show(abs(coef),extent=[0,200,30,1],aspect='auto',vmax=abs(coef).max(),vmin=-
 
 ### Inference
 Unable to reach satisfactory accuracy , Probable reason could be improper data-extraction, improper data-engineering, Too shallow Neural Network, Wrong Feature used.
+
+
+## Contact
+
+Harsh Pandey - harshpandey00701@gmail.com  
+
+Subhanshu Arya - subhanshu20101@iiitnr.edu.in
+
+Pranav Jaiswal - pranav20100@iiitnr.edu.in
