@@ -10,7 +10,6 @@ This is a classifaction based project that utilizes EEG and PPG signal's from th
 
 ### Tools Used
 
-This section should list any major frameworks that you built your project using.
 * [Matlab](https://matlab.mathworks.com/)
 * [Jupyter Notebook](https://jupyter.org/)
 * [google Collab](https://colab.research.google.com/)
